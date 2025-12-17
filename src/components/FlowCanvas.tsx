@@ -4,7 +4,6 @@ import {
   applyEdgeChanges,
   addEdge,
   type Node,
-  type Edge,
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 
