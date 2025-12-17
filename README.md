@@ -1,5 +1,3 @@
-# Frontend Engineering Intern Task – Ainyx Solutions
-
 Interactive canvas UI built with ReactFlow.
 
 ## Tech Stack
